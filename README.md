@@ -48,7 +48,3 @@ This project is based on the tutorial by [Mitch Koko](https://www.youtube.com/@c
 ## 🤝 Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
